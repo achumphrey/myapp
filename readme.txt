@@ -5,3 +5,6 @@ Yet another text to be added.
 
 This line is to be deleted after commit using a reset command.
 
+The conflicting line of text.
+
+
